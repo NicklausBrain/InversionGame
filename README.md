@@ -1,0 +1,2 @@
+# InversionGame
+Simple matrix game
