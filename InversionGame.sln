@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "InversionGame.Core", "InversionGame.Core\InversionGame.Core.fsproj", "{4DC6ED8C-A177-4871-AA51-CBF1702E7DA5}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "InversionGame.Core.Tests", "InversionGame.Core.Tests\InversionGame.Core.Tests.fsproj", "{850D65C8-A51F-4635-ABBC-16FD110BBC0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC6ED8C-A177-4871-AA51-CBF1702E7DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC6ED8C-A177-4871-AA51-CBF1702E7DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC6ED8C-A177-4871-AA51-CBF1702E7DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC6ED8C-A177-4871-AA51-CBF1702E7DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{850D65C8-A51F-4635-ABBC-16FD110BBC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850D65C8-A51F-4635-ABBC-16FD110BBC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850D65C8-A51F-4635-ABBC-16FD110BBC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850D65C8-A51F-4635-ABBC-16FD110BBC0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D504CE9C-0666-4C7C-94D2-70A15979179E}
+	EndGlobalSection
+EndGlobal
